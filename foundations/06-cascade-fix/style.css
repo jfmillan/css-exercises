@@ -40,3 +40,28 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+.para.small-para {
+  font-size: 17px;
+}
+
+.cancel,
+.confirm {
+  border-color: black;
+  border-style: solid;
+}
+
+.button.cancel {
+  font-weight: normal;
+}
+
+.button.confirm {
+  background-color: green;
+  color:white;
+}
+
+.text.child {
+  font-size: smaller;
+  font-weight: bold;
+}
+
